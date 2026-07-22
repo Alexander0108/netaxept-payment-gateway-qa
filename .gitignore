@@ -7,3 +7,7 @@ Thumbs.db
 
 # OS / misc
 *.swp
+
+# Generated report files (local)
+generate_report.py
+*.docx
